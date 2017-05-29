@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="retry">RETRY!</string>
+    <string name="flag_sweep">Flag/Sweep</string>
+    <string name="flag_mode">You are flagging!</string>
+    <string name="sweep_mode">You are sweeping!</string>
+    <string name="lost_mine">BOOM! You blew up. Be more careful next time.</string>
+    <string name="lost_flag">WRONG! Don\'t flag safe squares, flags are only for bombs.</string>
+    <string name="won">Good work! You survived the bombs and marked a safe path.</string>
+    <string name="help">Click around to clear the field, but watch out for bombs!</string>
+</resources>

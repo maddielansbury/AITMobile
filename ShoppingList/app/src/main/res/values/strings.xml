@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="error_empty_item_name">Item name cannot be empty!</string>
+    <string name="category">Category:</string>
+    <string name="item_name">Item name</string>
+    <string name="description">Description</string>
+    <string name="estimated_cost">Estimated cost</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="bought">Bought</string>
+    <string name="pin">Pin</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_all">Delete All</string>
+</resources>
